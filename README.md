@@ -18,15 +18,12 @@
 
 ### ⚒  WORKED WITH ⚒
 <p>
-<!--C-->
-<img height="40" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
-<!--C++-->
-<img height="40" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<!--Python-->
-<img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=white" />
-<img height="40" src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" />
-<!--ROS-->
-<img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ROS&logoColor=white" />
+
+![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat&logo=c)&nbsp; 
+![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat&logo=c%2B%2B)&nbsp; 
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; 
+![MATLAB](https://img.shields.io/badge/MATLAB-00599C?style=flat&logo=MATLAB%2B%2B)&nbsp;
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ROS)&nbsp; 
 
 </p>
 

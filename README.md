@@ -9,7 +9,7 @@
 ### ✨  ABOUT ME ✨
 
 - 👨‍🎓 I am currently BS Mechanical Engineering student at <a href="https://www.hanyang.ac.kr/web/eng">Hanyang University</a>.
-- 💼 I am currently working as a student researcher at <a href="https://www.ansurlab.com/">ANSUR Lab</a> of <a href="https://www.airi.kist.re.kr/centerfor-intelligent-robotics">KIST(Korea Institute of Science and Technology): Center for Intelligent & Interactive Robotics</a>.
+- 💼 I am currently working as a undergraduate researcher at <a href="https://www.ansurlab.com/">ANSUR Lab</a> of <a href="https://www.airi.kist.re.kr/centerfor-intelligent-robotics">KIST(Korea Institute of Science and Technology): Center for Intelligent & Interactive Robotics</a>.
 - 👨‍💻 I am a Junior Robotics Engineer.
 
 

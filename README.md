@@ -6,7 +6,7 @@
 
 <br>
 
-  ### ✨  ABOUT ME ✨
+  ### ✨ About Me ✨
   
   👨‍🎓 I am currently BS Mechanical Engineering student at <a href="https://www.hanyang.ac.kr/web/eng">Hanyang University</a>.<br>
   <!--
@@ -16,7 +16,7 @@
 
 <br>
 
-  ### ⚒  Tech Stack ⚒
+  ### ⚒ Tech Stack ⚒
 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
+<br>
 <br>
 
 <hr>

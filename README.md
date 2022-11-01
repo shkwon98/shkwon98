@@ -6,16 +6,17 @@
 
 <br>
 
-### ✨  ABOUT ME ✨
-👨‍🎓 I am currently BS Mechanical Engineering student at <a href="https://www.hanyang.ac.kr/web/eng">Hanyang University</a>.<br>
-<!--
-💼 I am currently working as an undergraduate researcher at <a href="https://www.ansurlab.com/">ANSUR Lab</a> of <a href="https://www.airi.kist.re.kr/centerfor-intelligent-robotics">KIST(Korea Institute of Science and Technology): Center for Intelligent & Interactive Robotics</a>.<br>
--->
-👨‍💻 I'm interested in Development of Real-time Robot Control SW and Robot Embedded Communication System SW.
+  ### ✨  ABOUT ME ✨
+  
+  👨‍🎓 I am currently BS Mechanical Engineering student at <a href="https://www.hanyang.ac.kr/web/eng">Hanyang University</a>.<br>
+  <!--
+  💼 I am currently working as an undergraduate researcher at <a href="https://www.ansurlab.com/">ANSUR Lab</a> of <a href="https://www.airi.kist.re.kr/centerfor-intelligent-robotics">KIST(Korea Institute of Science and Technology): Center for Intelligent & Interactive Robotics</a>.<br>
+  -->
+  👨‍💻 I'm interested in Development of Real-time Robot Control SW and Robot Embedded Communication System SW.
 
 <br>
 
-### ⚒  Tech Stack ⚒
+  ### ⚒  Tech Stack ⚒
 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
@@ -36,6 +37,7 @@
   ### ⚡ Stats ⚡️
   
 <br>
+  
   ![shkwon98's GitHub stats](https://github-readme-stats.vercel.app/api?username=shkwon98&count_private=true&show_icons=true&theme=dracula)<br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shkwon98&layout=compact&theme=dracula)](https://github.com/shkwon98/github-readme-stats)
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shkwon98)](https://solved.ac/shkwon98)

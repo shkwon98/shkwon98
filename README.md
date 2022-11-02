@@ -39,7 +39,7 @@
   
 <br>
   
-  ![shkwon98's GitHub stats](https://github-readme-stats.vercel.app/api?username=shkwon98&count_private=true&show_icons=true&theme=dracula)
+  [![shkwon98's GitHub stats](https://github-readme-stats.vercel.app/api?username=shkwon98&count_private=true&show_icons=true&theme=dracula)](https://github.com/shkwon98/github-readme-stats)
 <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shkwon98&layout=compact&theme=dracula)](https://github.com/shkwon98/github-readme-stats)&nbsp;
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shkwon98)](https://solved.ac/shkwon98)

@@ -28,7 +28,7 @@
 
 ### 👨‍🔧 Introduction
 
-> I'm currently in charge of developing middleware for maritime autonomous systems at Avikus. I am particularly interested in the development of real-time robot control software and robot embedded communication system software. Not only that, I am extremely interested in the entire series of technologies that makes up a robot system, including sensor fusion, kinematics, and more. Anyone who is interested in such a field is always welcome to contact me.<br>
+> I'm currently in charge of developing middleware for maritime autonomous systems at Avikus. I am particularly interested in the development of real-time robot control software and robot embedded communication system software. Not only that, I am extremely interested in the entire series of technologies that make up a robot system, including sensor fusion, kinematics, and more. Anyone who is interested in such a field is always welcome to contact me.<br>
 
 <br/>
 

@@ -27,32 +27,33 @@
 
 
 ### 👨‍🔧 Introduction
-> I'm currently in charge of developing middleware for maritime autonomous systems at Avikus. I am particularly interested in the development of real-time robot control software and robot embedded communication system software. Not only that, I am extremely interested in the entire series of framework that makes up a robot system, including sensor fusion, kinematics, and more. Anyone who is interested in such a field is always welcome to contact me.
 
+> I'm currently in charge of developing middleware for maritime autonomous systems at Avikus. I am particularly interested in the development of real-time robot control software and robot embedded communication system software. Not only that, I am extremely interested in the entire series of framework that makes up a robot system, including sensor fusion, kinematics, and more. Anyone who is interested in such a field is always welcome to contact me.<br>
 
 <br/>
 
 ### 👨‍💻 Career
-> 🔹 **System Software Engineer** at Recreational Boat Autonomous Team, <a href="https://avikus.ai/eng/main">Avikus</a>, <a href="http://www.hd-hyundai.com/">HD Hyundai</a>, Seoul, Korea (2023.01 ~ Present)
-> 🔹 **Undergraduate Researcher** at Center for Intelligent and Interactive Robotics, <a href="https://kist-air.wixsite.com/ari2021">AI·Robot Institute</a>, <a href="https://www.kist.re.kr/eng/index.do">Korea Institute of Science and Technology</a>, Seoul, Korea (2022.6 ~ 2022.8)
-> 🔹 **Undergraduate Researcher** at Center for Intelligent and Interactive Robotics, <a href="https://kist-air.wixsite.com/ari2021">AI·Robot Institute</a>, <a href="https://www.kist.re.kr/eng/index.do">Korea Institute of Science and Technology</a>, Seoul, Korea  (2021.12 ~ 2022.2)
 
+> 🔹 **System Software Engineer** at Recreational Boat Autonomous Team, <a href="https://avikus.ai/eng/main">Avikus</a>, <a href="http://www.hd-hyundai.com/">HD Hyundai</a>, Seoul, Korea (2023.01 ~ Present)<br/>
+> 🔹 **Undergraduate Researcher** at Center for Intelligent and Interactive Robotics, <a href="https://kist-air.wixsite.com/ari2021">AI·Robot Institute</a>, <a href="https://www.kist.re.kr/eng/index.do">Korea Institute of Science and Technology</a>, Seoul, Korea (2022.6 ~ 2022.8)<br/>
+> 🔹 **Undergraduate Researcher** at Center for Intelligent and Interactive Robotics, <a href="https://kist-air.wixsite.com/ari2021">AI·Robot Institute</a>, <a href="https://www.kist.re.kr/eng/index.do">Korea Institute of Science and Technology</a>, Seoul, Korea  (2021.12 ~ 2022.2)<br/>
 
 <br/>
 
 ### 👨‍🎓 Education
-> 🔹 **B.S in Mechanical Engineering** from <a href="https://www.hanyang.ac.kr/web/eng">Hanyang University</a>, Seoul, Korea (2017.3 ~ 2023.2)
+
+> 🔹 **B.S in Mechanical Engineering** from <a href="https://www.hanyang.ac.kr/web/eng">Hanyang University</a>, Seoul, Korea (2017.3 ~ 2023.2)<br/>
 
 <br>
 
 ### 🔍 Research Interest
 
-> 🔸 **Autonomous Shipping/Driving**
-> 🔸 **Mission Planning**
-> 🔸 **Protocol Design**
-> 🔸 **Real-time Robot Control**
-> 🔸 **Multi-Device Synchronization**
-> 🔸 **Sensor Fusion**
+> 🔸 **Autonomous Shipping/Driving**<br>
+> 🔸 **Mission Planning**<br>
+> 🔸 **Protocol Design**<br>
+> 🔸 **Real-time Robot Control**<br>
+> 🔸 **Multi-Device Synchronization**<br>
+> 🔸 **Sensor Fusion**<br>
 
 <br/>
 

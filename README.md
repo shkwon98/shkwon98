@@ -37,7 +37,7 @@
 
 ### 👨‍💻 Career
 
-> 🔹 **System Software Engineer** at Recreational Boat Autonomous Team, <a href="https://avikus.ai/eng/main">Avikus</a>, <a href="http://www.hd-hyundai.com/">HD Hyundai</a>, Seoul, Korea (2023.01 ~ Present)<br/>
+> 🔹 **System Software Engineer** at Recreational Boat Autonomous Team, <a href="https://avikus.ai/">Avikus</a>, <a href="http://www.hd-hyundai.com/">HD Hyundai</a>, Seoul, Korea (2023.01 ~ Present)<br/>
 > 🔹 **Undergraduate Researcher** at Center for Intelligent and Interactive Robotics, <a href="https://kist-air.wixsite.com/ari2021">AI·Robot Institute</a>, <a href="https://www.kist.re.kr/eng/index.do">Korea Institute of Science and Technology</a>, Seoul, Korea (2022.6 ~ 2022.8)<br/>
 > 🔹 **Undergraduate Researcher** at Center for Intelligent and Interactive Robotics, <a href="https://kist-air.wixsite.com/ari2021">AI·Robot Institute</a>, <a href="https://www.kist.re.kr/eng/index.do">Korea Institute of Science and Technology</a>, Seoul, Korea  (2021.12 ~ 2022.2)<br/>
 

@@ -61,7 +61,7 @@
 <br/>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sunghyunkwon/">
+<a href="https://www.linkedin.com/in/seonghyeonkwon/">
   <img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white" alt="Linkedin">
 </a>
 <a href="mailto:seonghyeon.kwon@avikus.ai">

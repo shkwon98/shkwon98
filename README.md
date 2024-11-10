@@ -9,19 +9,19 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/MATLAB-00599C?style=for-the-badge&logo=MATLAB&logoColor=white">
-<br/>
+<br />
 <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white">
 <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white">
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white">
 <img src="https://img.shields.io/badge/gRPC-3776AB?style=for-the-badge&logo=grpc&logoColor=white">
-<br/>
+<br />
 <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-<br>
+<br />
 <img src="https://img.shields.io/badge/CMake-FF0000?style=for-the-badge&logo=CMake&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
-<br>
+<br />
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
@@ -31,34 +31,35 @@
 
 ### 👨‍🔧 Introduction
 
-> I am currently responsible for developing middleware for maritime autonomous systems at Avikus. My focus is on creating real-time control and communication software for embedded robotic systems. Additionally, I have a deep interest in the comprehensive suite of technologies integral to autonomous systems, including detection, sensor fusion, localization, kinematics, dynamics, and more. I welcome anyone interested in this field to contact me.<br>
+> I am currently responsible for developing middleware for maritime autonomous systems at Avikus. My focus is on creating real-time control and communication software for embedded robotic systems. Additionally, I have a deep interest in the comprehensive suite of technologies integral to autonomous systems, including detection, sensor fusion, localization, kinematics, dynamics, and more. I welcome anyone interested in this field to contact me. <br />
 
-<br/>
+<br />
 
 ### 👨‍💻 Career
 
-> 🔹 **System Software Engineer** at Recreational Boat Autonomous Team, <a href="https://avikus.ai/">Avikus</a>, <a href="http://www.hd-hyundai.com/">HD Hyundai</a>, Seoul, Korea (2023.01 ~ Present)<br/>
-> 🔹 **Undergraduate Researcher** at Center for Intelligent and Interactive Robotics, <a href="https://kist-air.wixsite.com/ari2021">AI·Robot Institute</a>, <a href="https://www.kist.re.kr/eng/index.do">Korea Institute of Science and Technology</a>, Seoul, Korea (2022.6 ~ 2022.8)<br/>
-> 🔹 **Undergraduate Researcher** at Center for Intelligent and Interactive Robotics, <a href="https://kist-air.wixsite.com/ari2021">AI·Robot Institute</a>, <a href="https://www.kist.re.kr/eng/index.do">Korea Institute of Science and Technology</a>, Seoul, Korea  (2021.12 ~ 2022.2)<br/>
+> 🔹 **System Software Engineer** at Recreational Boat Autonomous Team, <a href="https://avikus.ai/">Avikus</a>, <a href="http://www.hd-hyundai.com/">HD Hyundai</a>, Seoul, Korea (2023.01 ~ Present) <br />
+> 🔹 **Undergraduate Researcher** at Center for Intelligent and Interactive Robotics, <a href="https://kist-air.wixsite.com/ari2021">AI·Robot Institute</a>, <a href="https://www.kist.re.kr/eng/index.do">Korea Institute of Science and Technology</a>, Seoul, Korea (2022.6 ~ 2022.8) <br />
+> 🔹 **Undergraduate Researcher** at Center for Intelligent and Interactive Robotics, <a href="https://kist-air.wixsite.com/ari2021">AI·Robot Institute</a>, <a href="https://www.kist.re.kr/eng/index.do">Korea Institute of Science and Technology</a>, Seoul, Korea  (2021.12 ~ 2022.2) <br />
 
-<br/>
+<br />
 
 ### 👨‍🎓 Education
 
-> 🔹 **B.S in Mechanical Engineering** from <a href="https://www.hanyang.ac.kr/web/eng">Hanyang University</a>, Seoul, Korea (2017.3 ~ 2023.2)<br/>
+> 🔹 **B.S in Mechanical Engineering** from <a href="https://www.hanyang.ac.kr/web/eng">Hanyang University</a>, Seoul, Korea (2017.3 ~ 2023.2) <br />
 
-<br>
+<br />
 
 ### 🔍 Research Interest
 
-> 🔸 **Autonomous Shipping/Driving**<br>
-> 🔸 **Mission Planning**<br>
-> 🔸 **Protocol Design**<br>
-> 🔸 **Real-time Robot Control**<br>
-> 🔸 **Multi-Device Synchronization**<br>
-> 🔸 **Communication Optimization**<br>
+> My research interest includes, but not confined to, <br />
+> 🔸 **Autonomous Shipping/Driving** <br />
+> 🔸 **Mission Planning** <br />
+> 🔸 **Protocol Design** <br />
+> 🔸 **Real-time Robot Control** <br />
+> 🔸 **Multi-Device Synchronization** <br />
+> 🔸 **Communication Optimization** <br />
 
-<br/>
+<br />
 
 <p align="center">
 <a href="https://www.linkedin.com/in/seonghyeonkwon/">

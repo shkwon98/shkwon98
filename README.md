@@ -1,9 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=welcome&fontSize=50&animation=fadeIn&fontAlignY=38&desc=shkwon98's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
-<p align="right">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshkwon98%2Fhit-counter">
-</p>
-
 <p align="center">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
@@ -62,12 +58,17 @@
 <br />
 
 <p align="center">
-<a href="https://www.linkedin.com/in/seonghyeonkwon/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white" alt="Linkedin">
-</a>
-<a href="mailto:seonghyeon.kwon@avikus.ai">
-  <img src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Outlook Badge">
-</a>
+  <a href="https://www.linkedin.com/in/seonghyeonkwon/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white" alt="Linkedin">
+  </a>
+  <a href="mailto:seonghyeon.kwon@avikus.ai">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Outlook Badge">
+  </a>
+
+  <br />
+  <br />
+
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshkwon98%2Fhit-counter">
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer)

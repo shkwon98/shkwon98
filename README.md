@@ -27,7 +27,9 @@
 
 ### 👨‍🔧 Introduction
 
-> I am currently responsible for developing middleware for maritime autonomous systems at Avikus. My focus is on creating real-time control and communication software for embedded robotic systems. Additionally, I have a deep interest in the comprehensive suite of technologies integral to autonomous systems, including detection, sensor fusion, localization, kinematics, dynamics, and more. I welcome anyone interested in this field to contact me. <br />
+> As a middleware developer for maritime autonomous systems at Avikus, I specialize in designing and implementing real-time control and communication software for embedded robotic systems. My work involves creating robust and efficient middleware solutions that enable seamless integration and coordination of complex robotic components. <br />
+> I have a strong interest in the full spectrum of technologies that underpin autonomous systems, encompassing detection, sensor fusion, localization, kinematics, dynamics, and beyond. I maintain a forward-thinking approach, continually exploring emerging methodologies and innovations to enhance system reliability and performance. <br />
+> I warmly invite professionals, researchers, and enthusiasts with a shared interest in autonomous systems and advanced robotics to connect with me. Collaborative discussions and knowledge exchange are always welcome. <br />
 
 <br />
 

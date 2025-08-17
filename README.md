@@ -52,12 +52,11 @@
 ### 🔍 Research Interest
 
 > My research interest includes, but not confined to, <br />
-> 🔸 **Autonomous Shipping/Driving** <br />
+> 🔸 **Real-time Control & Middleware Architectures** <br />
 > 🔸 **Mission Planning** <br />
-> 🔸 **Protocol Design** <br />
-> 🔸 **Real-time Robot Control** <br />
-> 🔸 **Multi-Device Synchronization** <br />
-> 🔸 **Communication Optimization** <br />
+> 🔸 **Physical AI & Embodied Intelligence** <br />
+> 🔸 **Multimodal Robotic Foundation Models** <br />
+> 🔸 **Communication Protocol Design** <br />
 
 <br />
 

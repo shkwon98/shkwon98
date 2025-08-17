@@ -29,9 +29,9 @@
 
 ### 👨‍🔧 Introduction
 
-> As a middleware developer for maritime autonomous systems at Avikus, I specialize in designing and implementing real-time control and communication software for embedded robotic systems. My work involves creating robust and efficient middleware solutions that enable seamless integration and coordination of complex robotic components. <br />
-> I have a strong interest in the full spectrum of technologies that underpin autonomous systems, encompassing detection, sensor fusion, localization, kinematics, dynamics, and beyond. I maintain a forward-thinking approach, continually exploring emerging methodologies and innovations to enhance system reliability and performance. <br />
-> I warmly invite professionals, researchers, and enthusiasts with a shared interest in autonomous systems and advanced robotics to connect with me. Collaborative discussions and knowledge exchange are always welcome. <br />
+> I am a software engineer passionate about building the software backbone that powers intelligent autonomous systems. At Avikus, I design and implement real-time middleware architectures and applications for autonomous navigation, ensuring seamless integration and reliable performance across complex robotic systems. <br />
+> My journey started with robotic manipulation research, which fostered a lasting interest in Physical AI. Building on this foundation, I've recently been exploring how multimodal robotic foundation models such as Vision-Language-Action (VLA) models can enhance the adaptability and autonomy of robotic systems through data-driven intelligence. <br />
+> I view robotics as a continuum between precise low-level control and high-level intelligence. My goal is to develop architectures and algorithms that bridge these layers, advancing the fields of embodiment, adaptability, and human-robot collaboration. I'm always interested in connecting with professionals and researchers who share my passion for robotics and Physical AI. Feel free to reach out for discussions about the exciting developments in this field. <br />
 
 <br />
 

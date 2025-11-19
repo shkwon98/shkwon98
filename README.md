@@ -20,8 +20,8 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
 <br />
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white">
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
@@ -37,6 +37,7 @@
 
 ### 👨‍💻 Career
 
+> 🔹 **Robot Software Engineer** at Robot Platform Team, <a href="https://www.tommoro-robotics.com/">Tommoro Robotics</a>, Seoul, Korea (2025.11 ~ Present) <br />
 > 🔹 **System Software Engineer** at Recreational Boat Autonomous Team, <a href="https://avikus.ai/">Avikus</a>, <a href="http://www.hd-hyundai.com/">HD Hyundai</a>, Seoul, Korea (2023.01 ~ 2025.11) <br />
 > 🔹 **Undergraduate Researcher** at Center for Intelligent and Interactive Robotics, AI·Robot Institute, <a href="https://www.kist.re.kr/eng/index.do">Korea Institute of Science and Technology</a>, Seoul, Korea (2022.06 ~ 2022.08) <br />
 > 🔹 **Undergraduate Researcher** at Center for Intelligent and Interactive Robotics, AI·Robot Institute, <a href="https://www.kist.re.kr/eng/index.do">Korea Institute of Science and Technology</a>, Seoul, Korea  (2021.12 ~ 2022.02) <br />
@@ -61,17 +62,19 @@
 <br />
 
 <p align="center">
+  <a href="mailto:shkwon@tommoro.ai">
+    <img src="https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/sunghyunkwon/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white" alt="Linkedin">
-  </a>
-  <a href="mailto:seonghyeon.kwon@avikus.ai">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Outlook Badge">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
 
   <br />
   <br />
 
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshkwon98%2Fhit-counter">
+  <a href="https://myhits.vercel.app">
+    <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fshkwon98?color=blue&label=hits&size=small" alt="hits" />
+  </a>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer)

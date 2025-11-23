@@ -46,7 +46,7 @@
 
 ### 👨‍🎓 Education
 
-> 🔹 **M.S in Artificial Intelligence** from <a href="https://en.snu.ac.kr/">Seoul National University</a>, Seoul, Korea (2026.03 ~ 2028.02) <br />
+> 🔹 **M.S in Artificial Intelligence** from <a href="https://en.snu.ac.kr/">Seoul National University</a>, Seoul, Korea (2026.03 ~ ) <br />
 > 🔹 **B.S in Mechanical Engineering** from <a href="https://www.hanyang.ac.kr/web/eng">Hanyang University</a>, Seoul, Korea (2017.03 ~ 2023.02) <br />
 
 <br />

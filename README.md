@@ -54,11 +54,11 @@
 ### 🔍 Research Interest
 
 > My research interest includes, but not confined to, <br />
-> 🔸 **Real-time Control & Middleware Architectures** <br />
+> 🔸 **Physical AI & Multimodal Robotic Foundation Models** <br />
+> 🔸 **Dexterous Manipulation & Robotic Hand Control** <br />
+> 🔸 **Software System Architecture & Communication Protocol Design** <br />
+> 🔸 **Real-time Control Systems** <br />
 > 🔸 **Mission Planning** <br />
-> 🔸 **Physical AI & Embodied Intelligence** <br />
-> 🔸 **Multimodal Robotic Foundation Models** <br />
-> 🔸 **Communication Protocol Design** <br />
 
 <br />
 

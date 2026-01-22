@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=welcome&fontSize=50&animation=fadeIn&fontAlignY=38&desc=shkwon98's%20GitHub%20Profile&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=welcome&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Sunghyun's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
 <p align="center">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">

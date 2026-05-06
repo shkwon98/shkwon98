@@ -29,9 +29,11 @@
 
 ### 👨‍🔧 Introduction
 
-> I am a robotics engineer passionate about building the software backbone that powers intelligent robot systems. I design and implement real-time middleware architectures and applications for autonomous robots, ensuring seamless integration and reliable performance across complex robotic components. <br />
-> My journey started with robotic manipulation research, which fostered a lasting interest in Physical AI. Building on this foundation, I've recently been exploring how multimodal robotic foundation models such as Vision-Language-Action (VLA) models can enhance the adaptability and autonomy of robotic systems through data-driven intelligence. <br />
-> I view robotics as a continuum between precise low-level control and high-level intelligence. My goal is to develop architectures and algorithms that bridge these layers, advancing the fields of embodiment, adaptability, and human-robot collaboration. I'm always interested in connecting with professionals and researchers who share my passion for robotics and Physical AI. Feel free to reach out for discussions about the exciting developments in this field. <br />
+> I’m a robotics engineer interested in building the software and control architectures that connect real-time robot systems with emerging Physical AI. <br />
+> Recent Vision-Language-Action models have made impressive progress in multimodal reasoning and general-purpose robot behavior. I believe their next leap will come from becoming more contact-aware, execution-aware, and physically grounded — especially in manipulation tasks where success depends not only on where the robot moves, but also on how it interacts with the world. <br />
+> My interests center on Contact-Implicit VLA, Execution-Aware VLA, and Dexterous Manipulation with Robotic Hands. I’m particularly interested in policies that reason about contact, compliance, force, uncertainty, and execution feedback, moving beyond geometry-centric action representations such as poses, waypoints, and trajectories. <br />
+> With a background in robotic manipulation, real-time robot systems, and software infrastructure, I approach Physical AI through the lens of execution: how intelligent policies interact with sensing, control, timing, and hardware constraints on real robotic platforms. <br />
+> I enjoy exchanging ideas with people exploring how robots can act, adapt, and interact reliably in the physical world. Feel free to reach out for discussions about the exciting developments in this field.<br />
 
 <br />
 

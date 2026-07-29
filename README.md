@@ -59,10 +59,11 @@
 
 > My research interest includes, but not confined to, <br />
 > 🔸 **Physical AI & Multimodal Robotic Foundation Models** <br />
+> 🔸 **Learning-Based Sensorimotor Intelligence for Embodied Agents** <br />
 > 🔸 **Dexterous Manipulation & Robotic Hand Control** <br />
+> 🔸 **Humanoid Robotics & Whole-Body Teleoperation** <br />
+> 🔸 **Real-Time Human-to-Robot Motion Retargeting** <br />
 > 🔸 **Software System Architecture & Communication Protocol Design** <br />
-> 🔸 **Real-time Control Systems** <br />
-> 🔸 **Mission Planning** <br />
 
 <br />
 

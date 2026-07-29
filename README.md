@@ -39,7 +39,9 @@
 
 ### 👨‍💻 Career
 
-> 🔹 **Robotics Researcher** at Robot Platform Team, <a href="https://tommoro.ai//">Tommoro Robotics</a>, Seoul, Korea (2025.11 ~ Present) <br />
+
+> 🔹 **Robotics Researcher** at Robotics SW Team (**Team Lead**), <a href="https://tommoro.ai//">Tommoro Robotics</a>, Seoul, Korea (2026.07 ~ Present) <br />
+> 🔹 **Robotics Researcher** at Robot Platform Team, <a href="https://tommoro.ai//">Tommoro Robotics</a>, Seoul, Korea (2025.11 ~ 2026.07) <br />
 > 🔹 **System Software Engineer** at Recreational Boat Autonomous Team, <a href="https://avikus.ai/">Avikus</a>, <a href="http://www.hd-hyundai.com/">HD Hyundai</a>, Seoul, Korea (2023.01 ~ 2025.11) <br />
 > 🔹 **Undergraduate Researcher** at Center for Intelligent and Interactive Robotics, AI·Robot Institute, <a href="https://www.kist.re.kr/eng/index.do">Korea Institute of Science and Technology</a>, Seoul, Korea (2022.06 ~ 2022.08) <br />
 > 🔹 **Undergraduate Researcher** at Center for Intelligent and Interactive Robotics, AI·Robot Institute, <a href="https://www.kist.re.kr/eng/index.do">Korea Institute of Science and Technology</a>, Seoul, Korea  (2021.12 ~ 2022.02) <br />

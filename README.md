@@ -39,7 +39,7 @@ My research focuses on policies and control systems that account for **motion fe
 
 - **Robotics Researcher** at Robotics SW Team (**Team Lead**), [Tommoro Robotics](https://tommoro.ai/), Seoul, Korea (2026.07 – Present)
 - **Robotics Researcher** at Robot Platform Team, [Tommoro Robotics](https://tommoro.ai/), Seoul, Korea (2025.11 – 2026.07)
-- **System Software Engineer** at Recreational Boat Autonomous Team, [Avikus](https://avikus.ai/), [HD Hyundai](https://www.hd-hyundai.com/), Seoul, Korea (2023.01 – 2025.11)
+- **System Software Engineer** at Recreational Boat Autonomous Team, [Avikus](https://avikus.ai/), [HD Hyundai](https://www.hd.com/en/main), Seoul, Korea (2023.01 – 2025.11)
 - **Undergraduate Researcher** at Center for Intelligent and Interactive Robotics, AI·Robot Institute, [Korea Institute of Science and Technology](https://www.kist.re.kr/eng/index.do), Seoul, Korea (2022.06 – 2022.08)
 - **Undergraduate Researcher** at Center for Intelligent and Interactive Robotics, AI·Robot Institute, [Korea Institute of Science and Technology](https://www.kist.re.kr/eng/index.do), Seoul, Korea (2021.12 – 2022.02)
 
